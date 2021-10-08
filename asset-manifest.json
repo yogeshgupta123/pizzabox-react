@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/pizzabox-react/static/js/main.be89453b.chunk.js",
+    "main.js.map": "/pizzabox-react/static/js/main.be89453b.chunk.js.map",
+    "runtime-main.js": "/pizzabox-react/static/js/runtime-main.9197ba38.js",
+    "runtime-main.js.map": "/pizzabox-react/static/js/runtime-main.9197ba38.js.map",
+    "static/js/2.0097a8c3.chunk.js": "/pizzabox-react/static/js/2.0097a8c3.chunk.js",
+    "static/js/2.0097a8c3.chunk.js.map": "/pizzabox-react/static/js/2.0097a8c3.chunk.js.map",
+    "static/js/3.69a6c6e1.chunk.js": "/pizzabox-react/static/js/3.69a6c6e1.chunk.js",
+    "static/js/3.69a6c6e1.chunk.js.map": "/pizzabox-react/static/js/3.69a6c6e1.chunk.js.map",
+    "index.html": "/pizzabox-react/index.html",
+    "static/js/2.0097a8c3.chunk.js.LICENSE.txt": "/pizzabox-react/static/js/2.0097a8c3.chunk.js.LICENSE.txt",
+    "static/media/featured3.66d68644.jpg": "/pizzabox-react/static/media/featured3.66d68644.jpg",
+    "static/media/pizza-3.f2f9b9a4.jpg": "/pizzabox-react/static/media/pizza-3.f2f9b9a4.jpg",
+    "static/media/product-1.36d084f3.jpg": "/pizzabox-react/static/media/product-1.36d084f3.jpg",
+    "static/media/product-2.4c066971.jpg": "/pizzabox-react/static/media/product-2.4c066971.jpg",
+    "static/media/product-3.115cc32b.jpg": "/pizzabox-react/static/media/product-3.115cc32b.jpg",
+    "static/media/sweet-2.d5cf1ad2.jpg": "/pizzabox-react/static/media/sweet-2.d5cf1ad2.jpg",
+    "static/media/sweet-3.badeecbe.jpg": "/pizzabox-react/static/media/sweet-3.badeecbe.jpg",
+    "static/media/sweet3.c495c742.jpg": "/pizzabox-react/static/media/sweet3.c495c742.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9197ba38.js",
+    "static/js/2.0097a8c3.chunk.js",
+    "static/js/main.be89453b.chunk.js"
+  ]
+}
